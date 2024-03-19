@@ -13,14 +13,19 @@ My Task Manager is a comprehensive task management application built using React
 
 # Installation
 - Follow these steps to set up My Task Manager:
+- 
 1.Clone the repository:
   git clone <repository-url>
+  
 2.Navigate to the project directory:
   cd Todo
+  
 3.Install dependencies:
   npm install
+  
 4.Start the application:
   npm start
+  
 5.Visit http://localhost:3000 in your web browser to access My Task Manager.
 
 # Dependencies
